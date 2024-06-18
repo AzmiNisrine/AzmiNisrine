@@ -134,12 +134,18 @@ ${\color{red}Note:\ Most\ of\ my\ repositories\ are\ private\ due\ to\ confident
 - Technologies: Python, TensorFlow, PyTorch, OpenCV
 - [![GitHub Repo](https://img.shields.io/badge/Repository-Open-brightgreen)](https://github.com/yourusername/multimodal-sentiment-analysis)
 
-
+<!--
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzmiNisrine&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmiNisrine&layout=compact&theme=radical)
 
+## Certifications
+
+- 📜 [Certification Name 1](https://linktocertification.com)
+- 📜 [Certification Name 2](https://linktocertification.com)
+- 📜 [Certification Name 3](https://linktocertification.com)
+-->
 
 ## Languages
 - ![Arabic](https://img.shields.io/badge/Arabic-B0E0E6?style=flat&logoColor=black) Native
