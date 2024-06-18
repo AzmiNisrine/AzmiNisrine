@@ -4,10 +4,13 @@ I'm a passionate data scientist, enthusiastic about extracting insights from dat
 
 ## About Me
 
-- 💼 Current Role: Data Scientist
-- 🎓 Education: Master degree in AI & Data Science from IMT Mines and Master degree in Computer Science from ENSA
-- 🌱 Currently Learning: DataOps & MLOps 
-- 💬 Ask me about: 
+💼 Current Role: Data Scientist
+
+🎓 Education: Master degree in AI & Data Science from IMT Mines and Master degree in Computer Science from ENSA
+
+🌱 Currently Learning: DataOps & MLOps 
+
+💬 Ask me about: 
   - Data wrangling,
   - Exploratory Data Analysis (EDA),
   - Feature engineering,
@@ -15,15 +18,18 @@ I'm a passionate data scientist, enthusiastic about extracting insights from dat
   - Natural Language Processing (NLP),
   - Large Language Models (LLM),
   - Computer Vision
-- 🧠 Personal qualities: 
-    - Critical thinking
-    - Analytical mindset
-    - Ethics
-    - Dynamism
-    - Rigor
-    - Autonomy
-- 📫 How to reach me: nisrinazmi@gmail.com
-- 🌐 Personal Website: [Link](https://azminisrine.github.io/)
+
+🧠 Personal qualities: 
+  - Critical thinking
+  - Analytical mindset
+  - Ethics
+  - Dynamism
+  - Rigor
+  - Autonomy
+
+📫 How to reach me: nisrinazmi@gmail.com
+
+🌐 Personal Website: [Link](https://azminisrine.github.io/)
 
 ${\color{red}Note:\ Most\ of\ my\ repositories\ are\ private\ due\ to\ confidentiality\ issues,\ but\ I'm\ working\ on\ making\ them\ public.}$
 
