@@ -31,8 +31,6 @@ I'm a passionate data scientist, enthusiastic about extracting insights from dat
 
 🌐 Personal Website: [Link](https://azminisrine.github.io/)
 
-${\color{red}Note:\ Most\ of\ my\ repositories\ are\ private\ due\ to\ confidentiality\ issues,\ but\ I'm\ working\ on\ making\ them\ public.}$
-
 
 ## Skills
 
@@ -93,6 +91,8 @@ ${\color{red}Note:\ Most\ of\ my\ repositories\ are\ private\ due\ to\ confident
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
 
 ## Projects
+
+${\color{red}Note:\ Most\ of\ my\ repositories\ are\ private\ due\ to\ confidentiality\ issues,\ but\ I'm\ working\ on\ making\ them\ public.}$
 
 ### [Neurofeedback Challenge](https://github.com/yourusername/neurofeedback-challenge)
 - Description: Participated in a neurofeedback challenge for supervised classification (Machine Learning) of EEG signals from patients.
